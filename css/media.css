@@ -1,0 +1,118 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.b_h1 {
+    padding-top: 30px;
+}
+.testimonial-card {
+    padding: 0;
+
+  }
+
+  .avatar {
+    width: 50px;
+    height: 50px;
+  }
+.testimonials {
+    background-color: var(--blue);
+    border-radius: 30px;
+    width: 1000px;
+    height: 442px;
+}
+.f_text {
+    font-weight: 400;
+    font-size: 7px;
+    line-height: 8px;
+}
+
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.testimonials {
+    background-color: var(--blue);
+    border-radius: 30px;
+    width: 1000px;
+    height: 442px;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.b_h1 {
+    padding-top: 30px;
+}
+.testimonials {
+    background-color: var(--blue);
+    border-radius: 30px;
+    width: 1000px;
+    height: 442px;
+}
+.read-more {
+    margin-top: -10px;
+}
+.article-card .card-text {
+    color: var(--grey);
+    font-size: 12px;
+    padding-bottom: 3px;
+}
+.f_text {
+    font-size: 7px;
+    line-height: 8px;
+}
+.article-card .card-title {
+    font-size: 11px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.f3_text {
+    padding-left: 18px;
+    padding-bottom: 0px;
+    padding-top: 3px;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .b_h1 {
+    font-size: 45px;
+}
+.f3_text {
+    padding-left: 18px;
+    padding-bottom: 0px;
+    padding-top: 3px;
+}
+}
+
+/* Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px){
+	.b_h1 {
+    font-weight: 700;
+    font-size: 58px;
+}
+.b_p1 {
+    font-size: 20px;
+}
+.f_text {
+    font-size: 21px;
+    line-height: 38px;
+}
+.f_card img {
+    margin-bottom: 21px;
+    margin-top: 50px;
+}
+.f2_text {
+    padding: 0px 130px 0 17px;
+}
+.f3_text {
+    padding-left: 18px;
+    padding-bottom: 0px;
+    padding-top: 3px;
+}
+
+}
