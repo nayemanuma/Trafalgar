@@ -188,10 +188,12 @@ h5{
 
 
 
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-    margin-bottom: 110px;
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%; 
+  opacity: 0.8;
 }
+
 /*Article Section Start*/
 #articles {
       background-color: var(--white);
