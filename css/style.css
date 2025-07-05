@@ -190,7 +190,7 @@ h5{
 
 .carousel-control-prev,
 .carousel-control-next {
-  height: 10%;
+  margin-bottom: 110px;
   width: 5%; 
   opacity: 0.8;
 }
