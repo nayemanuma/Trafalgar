@@ -182,16 +182,15 @@ h5{
 
 /* Avatar Image */
 .avatar {
-     width: 100px;
-     height: 100px;
+     width: 120px;
+     height: 120px;
 }
 
 
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    margin-bottom: 110px
-/*   filter: invert(1); */
+    margin-bottom: 110px;
 }
 /*Article Section Start*/
 #articles {
