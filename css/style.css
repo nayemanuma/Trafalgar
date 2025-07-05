@@ -190,7 +190,8 @@ h5{
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  filter: invert(1);
+    margin-bottom: 110px
+/*   filter: invert(1); */
 }
 /*Article Section Start*/
 #articles {
